@@ -30,7 +30,7 @@ createBtn.addEventListener("click", () => {
   if (amount > 0 && amount <= 100) {
     createBoxes(amount);
   } else {
-    alert("Te rog sa introduci un numaar intre 1 si 100");
+    alert("Te rog sa introduci un numar intre 1 si 100");
   }
 });
 

@@ -24,3 +24,4 @@ gallery.insertAdjacentHTML("beforeend", galleryList);
 gallery.style.display = "flex";
 gallery.style.listStyle = "none";
 gallery.style.justifyContent = "center";
+images.style.width = "50px";
